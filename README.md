@@ -19,6 +19,9 @@ Le jeu utilise la bibliothèque graphique fournie par l'IUT de Fontainebleau, di
 - **Mémorisation** : Les cartes découvertes restent visibles pendant une seconde.
 - **Mode tricheur** : Accessible en pressant la touche 't', ce mode découvre toutes les cartes et interrompt le temps jusqu'à désactivation.
 
+## Note du Projet
+Nous avons obtenu la note de 18/20 lors de ce projet.
+
 ---
 
 © Baptiste BLANCHON, Samet DURAN 
